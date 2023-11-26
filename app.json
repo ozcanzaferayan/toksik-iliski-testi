@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "test-camera",
-    "slug": "test-camera",
-    "version": "1.0.0",
+    "name": "Toksik ilişki testi",
+    "slug": "toksik-iliski-testi",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -11,9 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
